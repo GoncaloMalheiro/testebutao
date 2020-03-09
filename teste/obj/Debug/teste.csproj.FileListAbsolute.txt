@@ -1,0 +1,10 @@
+C:\Users\Gonçalo Malheiro\source\repos\teste\bin\Debug\teste.exe.config
+C:\Users\Gonçalo Malheiro\source\repos\teste\bin\Debug\teste.exe
+C:\Users\Gonçalo Malheiro\source\repos\teste\bin\Debug\teste.pdb
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.Form1.resources
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.exe
+C:\Users\Gonçalo Malheiro\source\repos\teste\obj\Debug\teste.pdb
